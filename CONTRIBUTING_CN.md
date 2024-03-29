@@ -73,6 +73,8 @@ PyMilvus 的 Github issue 列表中，打上了 [good-first-issue](https://githu
 
 `setup.py`: PyMilvus 的打包脚本
 
+`pyproject.toml`: PyMilvus 包构建的依赖项，python-venv 需要在构建前安装
+
 ## 贡献前必知
 
 ### PyMilvus 的 Github 工作流

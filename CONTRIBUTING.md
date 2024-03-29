@@ -66,6 +66,8 @@ Note: the problems, features, and questions mentioned here are not limited to Py
 `requirements.txt`: Dependencies for developing PyMilvus.
 
 `setup.py`: Package script for PyMilvus.
+`pyproject.toml`: Package build-time dependencies specifications for PyMilvus, install python-venv before build
+
 
 ## Congratulations! You are now the contributor to the Milvus community!
 
