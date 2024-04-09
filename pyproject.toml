@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name="pymilvus-powder"
+name="pymilvuspowder"
 authors = [
   {name='PowderLi', email="min.li@zilliz.com"},
 ]

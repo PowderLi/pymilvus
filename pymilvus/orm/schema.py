@@ -355,7 +355,7 @@ class FieldSchema:
                 if k in self._kwargs:
                     if self._type_params is None:
                         self._type_params = {}
-                    self._type_params[k] = self._kwargs[k]
+                    self._type_params[k] = int(self._kwargs[k])
 
     @classmethod
     def construct_from_dict(cls, raw: Dict):
